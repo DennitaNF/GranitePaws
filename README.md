@@ -13,7 +13,7 @@ Streetfeeding adalah isu sosial yang sering menimbulkan pro-kontra di masyarakat
 - **Jumlah data:** ±9.000 komentar.
 - **Contoh kolom:** `video_id`, `authorDisplayName`, `textDisplay`.
 
-[🔗 Link Dataset](https://github.com/DennitaNF/GranitePaws/blob/main/youtube_comments_simple.csv)  <!-- ganti sesuai lokasi repo kamu -->
+[🔗 Link Dataset](https://github.com/DennitaNF/GranitePaws/blob/main/youtube_comments_simple.csv)  
 
 ## ⚙️ Analysis Process
 1. **Preprocessing**
